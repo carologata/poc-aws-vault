@@ -2,3 +2,5 @@ terraform/.env
 terraform/.terraform.lock.hcl
 terraform/.terraform
 terraform/user_data/vault.hcl      
+
+packer/.env
